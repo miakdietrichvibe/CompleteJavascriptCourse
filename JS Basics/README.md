@@ -12,3 +12,5 @@ Working through Jonas' Complete Javascript Course on Udemy
 * Hold onto the vocabulary. The difference between a `statement` and an `expression` is that a statement simply performs an action, while an expression produces a value.
 * `Methods` are functions related to arrays. I suspect methods are really a set of functions related to one thing... because I'm sure there are object methods as well.
 * ES2015 is still too new to use in production, so we will stick with ES5.
+
+## How Javascript Works Behind the Scenes

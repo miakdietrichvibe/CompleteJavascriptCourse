@@ -321,7 +321,7 @@ for (var i = 0; i < arrayAges.length; i++) {
 
 
 
-
+/*
 function printFullAge(yearOfBirth) {
     var arrayAges = [];
     var arrayBoolean = [];
@@ -342,6 +342,8 @@ function printFullAge(yearOfBirth) {
 var yearOfBirth = [2008, 1986, 1989, 1956, 1913];
 var full_1 = printFullAge(yearOfBirth);
 var full_2 = printFullAge([2004, 2009, 1980, 1889, 2010]);
+*/
 
 //End of Basics
+
     
